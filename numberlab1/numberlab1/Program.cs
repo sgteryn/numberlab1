@@ -39,3 +39,18 @@ else
 {
     Console.WriteLine("Input Invalid");
 }
+
+
+//How can if statements be used to cover multiple situations?
+//Can you show an example.
+
+// If statements can be used to cover multiple situations by using else if until
+// the last possible situation whcih is written with else.
+//An example would be if you were given a task of looking for an object and
+//there are multiple places this object could be. Directions for finding the
+//might look like this: Look for the paper in my office on the desk. If you
+//find the object stop looking. Else if you do not find the object on the desk
+//look in the left drawer of the desk. if you find the paper there stop looking.
+//else the paper is in the brief case. Another example would be deciding what
+//to wear in different weather conditions. One may use if statements to describe
+//the weather and what should be worn under each range of weather situations. 
